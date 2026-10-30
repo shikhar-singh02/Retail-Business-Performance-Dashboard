@@ -73,7 +73,7 @@ Provides a high-level overview of business performance.
 - Total Orders
 - Total Customers
 - Profit Margin
-- Average Order Value
+- Top 5 Customers by Sales, Profit & Profit Margin
 - Monthly Sales Trend
 - Regional Performance
 - Category Sales
@@ -82,19 +82,21 @@ Provides a high-level overview of business performance.
 
 Focuses on product performance and customer profitability.
 
-- Top 10 Products by Sales
-- Top 10 Products by Profit
-- Customer Contribution
-- Customer Profitability
-- Product Sales vs Profitability
+- Top 10 Products Name by Total Sales & Total Profit 
+- Top 5 Customers Contribution
+- Top 5 Products Contribution 
+- Top 5 Customers with High Sales & Low Profit
+- Customer & Product Insights
 
 ### 3. Regional & Shipping Analysis
 
 Evaluates regional performance and shipping efficiency.
 
-- Regional Sales & Profitability
+- Regional Sales & Profit
 - Average Shipping Time by Ship Mode
-- Shipping Mode Performance
+- Regional Sales & Profit Margin 
+- Shipping Performance Table
+- Regional & Shipping Insights
 
 ## Interactive Features
 
